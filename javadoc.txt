@@ -1,0 +1,42 @@
+Class Calculator has JavaDoc comment: 
+/**
+ * This is a Calculator class for basic arithmetic operations.
+ *
+ * @ClassDocumentation "Calculator class for basic arithmetic operations."
+ */
+
+
+Class Customer has JavaDoc comment: 
+/**
+ * This is a Customer class representing a customer entity.
+ *
+ * @ClassDocumentation "Entity class representing a customer."
+ */
+
+
+Method getCustomerName in class Customer has JavaDoc comment: 
+/**
+     * Gets the name of the customer.
+     *
+     * @MethodDocumentation "Returns the name of the customer."
+     * @return The customer's name.
+     */
+
+
+Class User has JavaDoc comment: 
+/**
+ * This is a User class representing a system user.
+ *
+ * @ClassDocumentation "This class represents a system user."
+ */
+
+
+Method getUsername in class User has JavaDoc comment: 
+/**
+     * Gets the username of the user.
+     *
+     * @MethodDocumentation "Returns the username of the user."
+     * @return The username.
+     */
+
+
